@@ -229,3 +229,22 @@ create database if not exists SALESDATAWALLMART;
 -- WHICH DAY OF THE WEEK HAS THE BEST AVERAGE RATINGS PER BRANCH.
  
     SELECT DAY_NAME , BRANCH, AVG(RATING) FROM walmart_sales GROUP BY (DAY_NAME), BRANCH ORDER BY AVG(RATING) DESC;  
+
+# 💫 About Me:
+I am working on Data Analytics<br>i am open to connect with hiring managers and recruiters who have open role for data analytics<br>i have basic understanding of mysql, excel, python, tableau , power bi 
+
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://github.com/BhanuThakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhanu partap&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhanu partap&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu partap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bhanu partap&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
